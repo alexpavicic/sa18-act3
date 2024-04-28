@@ -1,0 +1,38 @@
+[
+    {
+        "model": "myapp.product",
+        "pk": 1,
+        "fields": {
+          "name": "Wolf",
+          "price": "2500",
+          "description": "Dangerous animal but cool"
+        }
+    },
+    {
+      "model": "myapp.product",
+      "pk": 2,
+      "fields": {
+        "name": "Lightbulb",
+        "price": "5.99",
+        "description": "Never be in the dark, get a lightbulb"
+      }
+    },
+    {
+      "model": "myapp.product",
+      "pk": 3,
+      "fields": {
+        "name": "1977 Pontiac Firebird",
+        "price": "30000",
+        "description": "classic muscle car that increases pollution"
+      }
+    },
+    {
+      "model": "myapp.product",
+      "pk": 4,
+      "fields": {
+        "name": "NBA Playoff Tickets",
+        "price": "675.97",
+        "description": "--Disclaimer-- Tickets are for veiewing seats at movie theater, not stadium --"
+      }
+    }
+]
